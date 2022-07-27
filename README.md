@@ -1,2 +1,2 @@
 # Algorithms-and-data-structures
-My journey of exploring algorithms and data structures at a deeper level
+This repo has been archived, as a newer version is available
